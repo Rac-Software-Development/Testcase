@@ -1,2 +1,1 @@
-Bla
-blabla
+print blabla
